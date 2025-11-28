@@ -12,6 +12,8 @@
 
 
 ## Introduction
+<img width="459" height="103" alt="image" src="https://github.com/user-attachments/assets/1b54fe69-ffc9-4a5d-bf44-a242b0e727d2" />
+
 The women’s suffrage movement was a crucial component of social and political transformation in Britain from the late 19th to the early 20th century. In 1928, the Equal Suffrage Act finally granted British women equal voting rights with men, marking the triumph of decades of suffrage activism. Throughout this process, British newspapers and readers’ letters served as vital platforms for public opinion, reflecting shifting societal attitudes toward women’s suffrage while actively participating in the construction and dissemination of discourse.
 
 Previous studies such as Holton (1986) and Pugh (1999) have examined the development of women’s suffrage movements from historical and political perspectives, but few have systematically analyzed how the media presented, shaped, or even challenged this issue through discourse evolution. This study employs digital humanities methodologies to provide a systematic analysis of media discourse based on the Gale database, aiming to reveal shifts in language, themes, and sentiment over time, and deepening understanding of the interactive relationship between public opinions and social movements. The sources of this study come from British Library Newspapers database in Gale Primary Source. This collection delivers a wide range of newspapers from 18th century to the 2020s. 
