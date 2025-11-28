@@ -21,13 +21,21 @@ Our study employs a combined approach of corpus linguistics and computational te
 
 ## Corpus Construction
 Source: British newspapers (e.g. The Times) and readers’ letters from Gale Digital Scholar Lab.
+
 Source	Number
+
 Times	184
+
 Exeter and Plymouth Gazette	95
+
 Aberdeen Journal	90
+
 Dundee Courier	83
+
 Derby Daily Telegraph	73
+
 Western Daily Press	51
+
 Others	574
 
 ## Results & Conclusion
@@ -40,8 +48,12 @@ In conclusion, this research provides a detailed analysis of British public disc
 
 ## References
 [1]Holton, S. S. (1986). Feminism and democracy : women’s suffrage and reform politics in Britain, 1900-1918. Cambridge University Press.
+
 [2]Pugh, M. (1999). The Women’s Suffrage Movement: A Reference Guide 1866-1928 / The Women’s Suffrage Movement in Britain, 1866-1928 / Sylvia Panhurst: A Life in Radical Politics. History Today, 49(11), 53
+
 [3]Vessey, D. (2021). Words as well as Deeds: The Popular Press and Suffragette Hunger Strikes in Edwardian Britain. Twentieth Century British History, 32(1), 68–92. https://doi.org/10.1093/tcbh/hwaa031
+
 [4]Guzzetti, M. (2026). Feminist language and discourse in the British suffrage press : words as deeds. Routledge. https://doi.org/10.4324/9781003598879
+
 [5]Gupta, K. (2016). Representation of the British Suffrage Movement. Bloomsbury.
 
