@@ -1,6 +1,13 @@
 # Project: Discourse Analysis of Women’s Suffrage Movement in British Press (Pre-1928)
 
-### Group3: Yunfei ZHANG (HKU), Yicheng FENG (University of Copenhagen), Shirong WANG, Hongming GU
+### Group Members and Photo
+| Name           | Affiliated Institution       | Personal Email |
+|----------------|-------------------------------|----------------|
+| Yunfei ZHANG   | Hong Kong University | yunfzhang24@connect.hku.hk |
+| Yicheng FENG   | University of Copenhagen| zhp525@alumni.ku.dk |
+| Shirong WANG   | Hong Kong University of Science and Technology | swanggt@connect.ust.hk |
+| Hongming GU    | Hong Kong University of Science and Technology | hgual@connect.ust.hk |
+
 <img width="783" height="852" alt="126431d406873be5ec2f8aee6e098581" src="https://github.com/user-attachments/assets/83b7e9f6-da01-49e9-92b5-714505d9c7e3" />
 
 
